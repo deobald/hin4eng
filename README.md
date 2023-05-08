@@ -43,6 +43,8 @@ Hindi for English speakers
 
 * [ ] https://ivmpodcasts.com/
 
+* Puliyabaazi - [IVM](https://ivmpodcasts.com/ivm-show/puliyabaazi-hindi-podcast-61e571e6adf87e3b1d590b21) / [Apple](https://podcasts.apple.com/ca/podcast/puliyabaazi-hindi-podcast/id1380601120) / [Spotify](https://open.spotify.com/show/5JVXED73qNjIT8n2nNMTFF)
+* Ikka-Dukka, Economy - [IVM](https://ivmpodcasts.com/ivm-show/ikka-dukka-economy-61e571e3adf87e3b1d5902ff) / [Apple](https://podcasts.apple.com/au/podcast/ikka-dukka-economy/id1596217950) 
 * Panno ke Jharokhe
 
 ### Text + Audio
