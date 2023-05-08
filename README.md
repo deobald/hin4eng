@@ -6,6 +6,74 @@ Hindi for English speakers
 
 * Sunday - Thursday, 8:30pm IST, 12:00pm ADT
 
+### Lonsdale tl;dr for Language Parents
+
+* #5 (Language Parenting) is _very_ important
+    1. work hard to understand what student is saying
+    2. never correct mistakes
+    3. confirm your understanding with correct Hindi
+    4. use words the student knows
+    5. = safe environment, simple words + body language + images
+* content must be relevant (_interesting_) to student
+    * talking about Swift, Raku, and SBCL is okay
+* only speak in Hindi, but use simple words + body language + images (video on)
+* focus on student's understanding (not vocabulary, for instance)
+* enunciate
+* focus on core words, if possible
+* use images to explain, not English
+
+## Hinglish?
+
+* Try to avoid English in conversation, when possible. It's a massive context switch for a native English speaker. The example I gave Ankur was that typing in Dvorak/QWERTY is hardest when hitting `A` and `M` keys, since they map the same way in both layouts, causing automatic context switches.
+* In text English is not so bad (mostly just annoying).
+
+## Potential Non-conversational Input
+
+### Film
+
+* Hrishikesh Mukherjee movies?
+
+### Video
+
+* BBC Hindi articles, news
+* Kurzgesagt Hindi (+English)
+* Bharat ek Khoj (DD, subtitled)
+
+### Podcasts
+
+* [ ] https://ivmpodcasts.com/
+
+* Panno ke Jharokhe
+
+### Text + Audio
+
+* [ ] books + audio books?
+
+* Anapana / Vipassana instructions
+
+### Text: Hindi + English
+
+* दो लोग / _Two_ - Gulzar
+
+### Music
+
+* TBD
+
+
+## Steven - Goals
+
+* Eventual fluency, so that learning is continuous rather than sisyphean
+* Goenka / Vipassana Discourses
+* Vipassana video / audio / books
+* Reading (ex. Gulzar)
+* Improve Pali / Sanskrit understanding, pronunciation
+
+## Samuel - Goals
+
+* Speak to the kids in Hindi
+* Speak to Pune locals, like a local
+
+
 ## Chris Lonsdale ("Learn Any Language in Six Months")
 
 ### 5 Principles:
@@ -51,58 +119,3 @@ Hindi for English speakers
     * share screen
     * google image search
     * take time to look things up + show
-
-### tl;dr for Language Parents
-
-* #5 above is _very_ important
-* content must be relevant (_interesting_) to student
-* only speak in Hindi, but use simple words + body language + images (video on)
-* focus on student's understanding (not vocabulary, for instance)
-* enunciate
-* focus on core words, if possible
-* use images to explain, not English
-
-## Hinglish?
-
-* Try to avoid English in conversation, when possible. It's a massive context switch for a native English speaker. The example I gave Ankur was that typing in Dvorak/QWERTY is hardest when hitting `A` and `M` keys, since they map the same way in both layouts, causing automatic context switches.
-* In text English is not so bad (mostly just annoying).
-
-## Potential Non-conversational Input
-
-### Film
-
-* Hrishikesh Mukherjee movies?
-
-### Video
-
-* BBC Hindi articles, news
-* Kurzgesagt Hindi (+English)
-* Bharat ek Khoj? (DD, subtitled)
-
-### Podcasts
-
-* Panno ke Jharokhe
-
-### Text + Audio
-
-* books + audio books?
-
-### Text: Hindi + English
-
-* दो लोग / _Two_ - Gulzar
-
-### Music
-
-* TBD
-
-
-## Steven - Goals
-
-* Goenka / Vipassana Discourses
-* Vipassana video / audio / books
-* Reading (ex. Gulzar)
-* Improve Pali / Sanskrit understanding, pronunciation
-
-## Samuel - Goals
-
-* TBD
