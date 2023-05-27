@@ -38,6 +38,12 @@ Hindi for English speakers
 * BBC Hindi articles, news
 * Kurzgesagt Hindi (+English)
 * Bharat ek Khoj (DD, subtitled)
+* Urja w SN Goenka
+    * Playlist: https://www.youtube.com/watch?v=Wynxgqpqn94&list=PLVqBLRhC9UzFWWso6QbHAs121-0iKxku- 
+    * 01. https://www.youtube.com/watch?v=Wynxgqpqn94
+    * 02. https://www.youtube.com/watch?v=J0SjIYVUIBs
+    * 03. https://www.youtube.com/watch?v=e9OPwtlG9v8
+    * etc.
 
 ### Podcasts
 
