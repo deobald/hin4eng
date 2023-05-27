@@ -56,7 +56,9 @@ Hindi for English speakers
 
 ### Text + Audio
 
-* [ ] books + audio books?
+* https://www.audible.in/pd/Embargo-title-IN-Audiobook/B07NDK8Z41 (Vaishalli ki Nagarvadhu)
+* https://www.audible.in/pd/Yayaati-Audiobook/B07KKMMFRP (Yayaati)
+* https://www.audible.in/pd/Godaan-Hindi-Edition-Audiobook/B0853ZJSCF (Godaan)
 
 * Anapana / Vipassana instructions
 
