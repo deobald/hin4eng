@@ -33,10 +33,14 @@ Hindi for English speakers
 
 * Hrishikesh Mukherjee movies?
 
+### Video: Hindi + English
+
+* Kurzgesagt
+* Night Manager
+
 ### Video
 
 * BBC Hindi articles, news
-* Kurzgesagt Hindi (+English)
 * Bharat ek Khoj (DD, subtitled)
 * Urja w SN Goenka
     * Playlist: https://www.youtube.com/watch?v=Wynxgqpqn94&list=PLVqBLRhC9UzFWWso6QbHAs121-0iKxku- 
@@ -44,6 +48,7 @@ Hindi for English speakers
     * 02. https://www.youtube.com/watch?v=J0SjIYVUIBs
     * 03. https://www.youtube.com/watch?v=e9OPwtlG9v8
     * etc.
+* OK Computer (Hotstar)
 
 ### Podcasts
 
