@@ -29,14 +29,23 @@ Hindi for English speakers
 
 ## Potential Non-conversational Input
 
-### Film
-
-* Hrishikesh Mukherjee movies?
-
 ### Video: Hindi + English
 
 * Kurzgesagt
 * Night Manager
+
+### Audio: Hindi + English
+
+* [Batman Ek Chakravyuh](https://open.spotify.com/show/48HxW0llKdgynw5Wysc0eG?si=2872e2b544c94783)
+    * [Batman Unburied](https://open.spotify.com/show/3pUWoZ6fC2qA02D3X0CeMb?si=654a9c1e57c345bc)
+
+### Text: Hindi + English
+
+* दो लोग / _Two_ - Gulzar
+
+### Film
+
+* Hrishikesh Mukherjee movies?
 
 ### Video
 
@@ -66,10 +75,6 @@ Hindi for English speakers
 * https://www.audible.in/pd/Godaan-Hindi-Edition-Audiobook/B0853ZJSCF (Godaan)
 
 * Anapana / Vipassana instructions
-
-### Text: Hindi + English
-
-* दो लोग / _Two_ - Gulzar
 
 ### Music
 
