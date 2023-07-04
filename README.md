@@ -51,6 +51,7 @@ Hindi for English speakers
 
 * BBC Hindi articles, news
 * Bharat ek Khoj (DD, subtitled)
+* Malgudi Days: https://www.youtube.com/watch?v=aEjfHV0YbII
 * Urja w SN Goenka
     * Playlist: https://www.youtube.com/watch?v=Wynxgqpqn94&list=PLVqBLRhC9UzFWWso6QbHAs121-0iKxku- 
     * 01. https://www.youtube.com/watch?v=Wynxgqpqn94
