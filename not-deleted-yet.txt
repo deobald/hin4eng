@@ -1,0 +1,1 @@
+Here is a file to test commits when user is deleted.
