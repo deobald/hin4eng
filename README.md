@@ -2,10 +2,6 @@
 
 Hindi for English speakers
 
-## Delete this section later
-
-* I'm just testing something. Delete this line. Later.
-
 ## Schedule
 
 * Sunday - Thursday, 8:30pm IST, 12:00pm ADT
@@ -50,6 +46,7 @@ Hindi for English speakers
 ### Film
 
 * Hrishikesh Mukherjee movies?
+* Vatsav: https://www.youtube.com/watch?v=cINYT2w7SEo
 
 ### Video
 
